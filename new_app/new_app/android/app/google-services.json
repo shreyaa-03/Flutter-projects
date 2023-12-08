@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086951786644",
+    "project_id": "flutter-login-app-73656",
+    "storage_bucket": "flutter-login-app-73656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086951786644:android:0246f6e58e5234a78ccc81",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086951786644-m1m4h8qj1lkllm4hm5b632l2ie02v8ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdin3yA_S-yt8_rahU10RXoBTqHyaLIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086951786644-m1m4h8qj1lkllm4hm5b632l2ie02v8ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
